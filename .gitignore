@@ -15,5 +15,3 @@ __pycache__/
 .bakta/
 
 # Local AI/editor/session files
-.codex/
-.agents/
