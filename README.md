@@ -1,8 +1,9 @@
 # AI-Assisted Staphylococcus Invasome Mining Pipeline
 
-Reusable, faculty-ready template pipeline for mining assembled *Staphylococcus* genomes for candidate invasome-related genes.
+Reusable computational workflow for prioritizing candidate invasome-associated genes from assembled *Staphylococcus* genomes.
 
-This development version analyzes an assembled genome FASTA using Bakta annotation, biologically grouped keyword screening, optional AMRFinderPlus evidence, optional ABRicate database screening, heuristic protein localization/surface clues, simple candidate scoring, and a final plain-text report.
+The pipeline combines genome annotation, biologically grouped keyword screening, optional AMRFinderPlus evidence, optional ABRicate/VFDB virulence screening, protein localization and surface-association heuristics, candidate scoring, and a final summary report.
+
 
 ## Purpose
 
