@@ -1,0 +1,15 @@
+name: StaphInvasomeMining
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.11
+  - bakta
+  - ncbi-amrfinderplus
+  - abricate
+  - biopython
+  - blast
+  - hmmer
+  - diamond
+  - seqkit

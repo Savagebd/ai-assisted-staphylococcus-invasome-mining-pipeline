@@ -1,0 +1,19 @@
+config.env
+01_Genome_FASTA/
+02_Bakta_Annotation/
+03_Invasome_Feature_Extraction/
+04_Invasome_Keyword_Screening/
+05_AMRFinderPlus/
+06_ABRicate/
+07_Protein_Localization/
+08_Invasome_Summary/
+09_Final_Report/
+logs/
+*.log
+__pycache__/
+*.pyc
+.bakta/
+
+# Local AI/editor/session files
+.codex/
+.agents/
