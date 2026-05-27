@@ -276,6 +276,6 @@ Future optional modules may include:
 - protein-language-model or deep-learning scoring only after reproducible evidence tables and validation data exist
 - comparative evidence across multiple *Staphylococcus* genomes
 
-## Faculty and Portfolio Positioning
+## Skills Demonstrated
 
-This repository is intended as a transparent teaching and portfolio pipeline. The Bash entrypoint, configuration file, TSV evidence tables, and plain-text report are designed to be readable by students and reviewable by faculty. The pipeline prioritizes reproducibility and honest candidate interpretation over unsupported claims.
+This repository demonstrates reproducible Bash workflow design, structured configuration, Python-based evidence parsing, TSV evidence tables, and candidate-level reporting. The pipeline prioritizes reproducibility and honest candidate interpretation over unsupported claims.

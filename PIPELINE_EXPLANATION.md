@@ -232,4 +232,4 @@ Future optional modules may include:
 - InterProScan or eggNOG annotation layers
 - curated virulence gene review tables
 - improved scoring with transparent weights
-- optional AI-assisted interpretation after evidence tables are generated
+- optional structured interpretation from generated evidence tables
